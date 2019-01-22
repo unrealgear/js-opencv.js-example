@@ -1,0 +1,23 @@
+{
+  "name": "js-opencv.js-example",
+  "productName": "OpenCV.js example",
+  "version": "1.0.0",
+  "description": "Example of using opencv.js for image comparison",
+  "scripts": {},
+  "repository": "https://github.com/unrealgear/js-opencv-example",
+  "keywords": [
+    "js",
+    "mocha",
+    "image",
+    "comparison",
+    "discrepancies",
+    "difference",
+    "examples",
+    "opencv",
+    "open cv"
+  ],
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^5.2.0"
+  }
+}
